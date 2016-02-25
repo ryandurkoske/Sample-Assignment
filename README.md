@@ -5,7 +5,7 @@ This Sample Assignment will go through the workflow of Processing and GitHub tha
 
 1. Sign up for a free GitHub account if you don’t already have one and sign in to your GitHub account
 
-3. Fork [this repository](https://GitHub.com/maureengarda/SampleAssignment). Forking is making a copy of the *repo* (that's short for repository). It's like copying a google doc. Click on the *Fork* button at the top right corner.  
+3. Fork [this repository](https://github.com/maureengarda/Sample-Assignment.git). Forking is making a copy of the *repo* (that's short for repository). It's like copying a google doc. Click on the *Fork* button at the top right corner.  
 
 4. Click on the SampleAssignmentSimple.pde file  
 
