@@ -20,4 +20,7 @@ footer {
 	font-style: italic;
 	font-size: 90%;
 }
-
+.textSuff p{
+	font-size:50px;
+	font-style: "Comic Sans";
+}
